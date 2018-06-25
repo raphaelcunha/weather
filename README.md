@@ -2,7 +2,7 @@
 
 This project was generated with Vue CLI.
 
-![Alt Text](https://github.com/raphaelcunha/Hyundai/blob/master/dashboard.gif)
+![Alt Text](https://github.com/raphaelcunha/weather/blob/master/dashboard.gif)
 
 ## Development server
 
