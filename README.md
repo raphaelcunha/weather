@@ -1,6 +1,6 @@
 # Dashboard Weather
 
-This project was generated with Vue CLI. This demo: [a link](http://weather.raphasantos.com.br/)
+This project was generated with Vue CLI. This demo: [http://weather.raphasantos.com.br/](http://weather.raphasantos.com.br/)
 
 ![Alt Text](https://github.com/raphaelcunha/weather/blob/master/dashboard.gif)
 
