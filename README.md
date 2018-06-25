@@ -4,6 +4,9 @@ This project was generated with Vue CLI.
 
 ![Alt Text](https://github.com/raphaelcunha/weather/blob/master/dashboard.gif)
 
+## First Action for install dependences
+Run `npm install` for install all dependences of this project
+
 ## Development server
 
 Run `npm run serve` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
